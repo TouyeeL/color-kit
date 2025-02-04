@@ -1,10 +1,8 @@
-/* Diagnostic Styling */
-* {
-  outline: 2 px dotted black;
+h1{
+  display: grid;
+  place-items: center;
+
 }
-
-/* Temp bg color */
-
-body{
-    background: #8AEACA;
-  }
+body {
+  height: 100vh;
+}
